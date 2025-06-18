@@ -254,7 +254,7 @@ generateTime = () => {
       border-width:3px;
       height:150px;
       width:200px;
-      background-color:#999999;
+      background-color:#B386E6;
       float:right;
       padding: 10px;
     `
@@ -452,6 +452,27 @@ var soundtracks = {
       {
         "name": "Toby Fox – Vs. Susie",
         "url": "https://audio.jukehost.co.uk/GRVOlMRqOhdPvQdSmXq2L91YILjfBCLZ"
+      },              
+    ]
+  },
+  1: {
+    name: "Pear Playlist",
+    tracklist: [
+      {
+        "name": "House of the Rising Sun - The Rolling Stones",
+        "url": "https://audio.jukehost.co.uk/Djxqdn84YDEsOpGKqhj4buQoTNU95Joo"
+      },
+      {
+        "name": "Jackie's Box (Sped up 2x and then slowed down 2x) - XTRATUNA",
+        "url": "https://audio.jukehost.co.uk/uCV18BuzFBwGJeeDDwAJuKeYmsqm29RN"
+      },
+      {
+        "name": " Dear Boy - Eugene McCarthy",
+        "url": "https://audio.jukehost.co.uk/TdPZC1dUrUSYlHOr0EjS1i2cREMIrsnx"
+      },
+      {
+        "name": "The Instrumentals of Dear Boy - Joeseph McCarthy",
+        "url": "https://audio.jukehost.co.uk/VbMiYwS4gZNPseyFbfbHY4twJerHpubV"
       },              
     ]
   }
